@@ -1,4 +1,4 @@
-c# Welcome Message for Tic Tac Toe
+# Welcome Message for Tic Tac Toe
 
 ## Overview
 
